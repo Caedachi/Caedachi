@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### CHOMP
+i do art and sometimes program on the side outside of my regular software engineering job, weird right?
 <!--
 **Caedachi/Caedachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
